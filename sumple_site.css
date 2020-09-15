@@ -44,7 +44,7 @@ header li {
 }
 
 .main-wrapper {
-  background-image: url(0047_xlarge.jpg);
+  background-image: url(https://raw.githubusercontent.com/prog-yukke/sumple_site/master/0047_xlarge.jpg);
   background-image: cover;
   width: 100%;
   height: 800px;
